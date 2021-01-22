@@ -1,5 +1,5 @@
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Fjz-Kuroko&show_icons=true" alt="logo" algin="right" style="margin-bottom:20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fjz-Kuroko&show_icons=true" alt="logo" align="right" style="margin-bottom: 20px;" />
 </p>
 
 ### 我是Fjz-Kuroko
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <br/>
-<img src="https://github-profile-trophy.vercel.app/api?username=Fjz-Kuroko&theme=flat&column=7" alt="logo" algin="center" style="margin:auto;" />
+<img src="https://github-profile-trophy.vercel.app/?username=Fjz-Kuroko&theme=flat&column=7" alt="logo" align="center" style="margin: auto;"/>
 
